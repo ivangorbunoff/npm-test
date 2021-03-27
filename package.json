@@ -17,7 +17,10 @@
   },
   "homepage": "https://github.com/ivangorbunoff/npm-test#readme",
   "description": "",
+  "dependencies": {
+    "is-url": "^1.2.4"
+  },
   "devDependencies": {
     "is-url": "^1.2.4"
-  }
+  },
 }
