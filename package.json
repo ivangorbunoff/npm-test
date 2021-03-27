@@ -16,5 +16,8 @@
     "url": "https://github.com/ivangorbunoff/npm-test/issues"
   },
   "homepage": "https://github.com/ivangorbunoff/npm-test#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "is-url": "^1.2.4"
+  }
 }
